@@ -34,7 +34,7 @@ How to read the schema:
 * Black bullets are used to identify the fields that can not be null <br>
 * If the field is underlined means that is a primary key <br>
 
-![schema](./img/SongPlayAnalysis.png)
+![schema](./SongPlayAnalysis.png)
 
 To represent this context a ``Star schema`` has been used <br>
 
